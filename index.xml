@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tučňákův tech blog</title>
+    <link>https://turbotucnak.cz/</link>
+    <description>Recent content on Tučňákův tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Tue, 07 Sep 2021 22:42:07 +0200</lastBuildDate><atom:link href="https://turbotucnak.cz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Konfigurace Fortigate pomocí ansible</title>
+      <link>https://turbotucnak.cz/posts/fortinet/</link>
+      <pubDate>Tue, 07 Sep 2021 22:42:07 +0200</pubDate>
+      
+      <guid>https://turbotucnak.cz/posts/fortinet/</guid>
+      <description>Základy instalace ansible
+apt install ansible </description>
+    </item>
+    
+  </channel>
+</rss>
